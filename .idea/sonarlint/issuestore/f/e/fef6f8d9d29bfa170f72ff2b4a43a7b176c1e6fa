@@ -1,0 +1,26 @@
+
+s
+java:S1104W"QMake boxes a static final constant or non-public and provide accessors if needed.(íæ†ùÿÿÿÿ8æÂƒöÃ.
+o
+java:S1104i"MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿ8æÂƒöÃ.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(†Øúè8æÂƒöÃ.
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˆ§ûÿÿÿÿ8æÂƒöÃ.
+>
+java:S16432"Use a StringBuilder instead.(¬¹Î›ÿÿÿÿÿ8æÂƒöÃ.
+j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷óáí8æÂƒöÃ.
+r
+java:S1104"PMake turn a static final constant or non-public and provide accessors if needed.(æŞ¬™úÿÿÿÿ8æÂƒöÃ.
+s
+java:S1104"QMake boxes a static final constant or non-public and provide accessors if needed.(íæ†ùÿÿÿÿ8æÂƒöÃ.
+o
+java:S1104j"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛşÿÿÿÿ8æÂƒöÃ.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Ï²ï×8æÂƒöÃ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïã¿…8æÂƒöÃ.
+r
+java:S1104"PMake grid a static final constant or non-public and provide accessors if needed.(”Ë“­ûÿÿÿÿ8æÂƒöÃ.
+S
+java:S2696&"6Make the enclosing method "static" or remove this set.(Ï²ï×8æÂƒöÃ.
+p
+java:S1104h"SMake content a static final constant or non-public and provide accessors if needed.(­ÁÅ’8æÂƒöÃ.

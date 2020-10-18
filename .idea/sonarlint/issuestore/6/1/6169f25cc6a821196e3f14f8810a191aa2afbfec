@@ -1,0 +1,14 @@
+
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8 ÂÑ¾Å.
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8 ÂÑ¾Å.
+T
+java:S11171"8Rename "word" which hides the field declared at line 14.(àèÓ=8²›Ü¾Å.
+k
+java:S2259:"NA "NullPointerException" could be thrown; "randomAccessFile" is nullable here.(¿Ï¢’8ªñ¾Å.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ì°Àšúÿÿÿÿ8ªñ¾Å.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8íêÈ¿Å.
+L
+java:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ªñ¾Å.
