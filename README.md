@@ -1,10 +1,10 @@
 # discord-bot-minigames
 
-This is my work on my first bot mini-games.
+This is my work on my first bot on Discord.
 
 Trying to make a bot to make mini-games in the chat for discord's users using Java.
 
-##Current minigames
+## Current minigames
 
-- hangman game in french
-- tictactoe game
+- Hangman game in french
+- Tictactoe game
